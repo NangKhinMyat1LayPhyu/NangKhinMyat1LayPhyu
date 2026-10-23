@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="184" viewBox="0 0 460 184">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+.card{fill:#ffffff;stroke:#e4e2dc}.bar{fill:#2F5FA7}.t{fill:#2B5BA0;font-size:20px;font-weight:500}
+.d{fill:#3d3d3a;font-size:16px}.pill{fill:#E6F1FB}.pt{fill:#0C447C;font-size:13px}
+</style>
+<path class="card" d="M0.5 0.5H459.5V173.5A10 10 0 0 1 449.5 183.5H10.5A10 10 0 0 1 0.5 173.5Z"/>
+<rect class="bar" x="0" y="0" width="460" height="4"/>
+<text class="t" x="26" y="50">cctv-incident-detection</text>
+<text class="d" x="26" y="88">Crash detection on live multi-camera CCTV with</text><text class="d" x="26" y="113">YOLO11 + ByteTrack.</text>
+
+<rect class="pill" x="26" y="134" width="92" height="28" rx="5"/><text class="pt" x="72.0" y="153" text-anchor="middle">13ms/frame</text><rect class="pill" x="126" y="134" width="120" height="28" rx="5"/><text class="pt" x="186.0" y="153" text-anchor="middle">31→10 false/hr</text>
+</svg>

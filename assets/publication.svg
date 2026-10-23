@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="238" viewBox="0 0 1000 238">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}</style>
+<path d="M0.5 0.5H999.5V227.5A10 10 0 0 1 989.5 237.5H10.5A10 10 0 0 1 0.5 227.5Z" fill="#ffffff" stroke="#e4e2dc"/>
+<rect width="1000" height="4" fill="#2F5FA7"/>
+<rect x="28" y="26" width="104" height="26" rx="5" fill="#2F5FA7"/>
+<text x="80" y="44" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">WACV 2027</text>
+<text x="146" y="44" fill="#5F5E5A" font-size="14">Applications Track · Co-author</text>
+<text x="972" y="44" text-anchor="end" fill="#888780" font-size="13">paper · code — coming soon</text>
+<text x="28" y="90" fill="#2B5BA0" font-size="20.5" font-weight="500" textLength="944" lengthAdjust="spacing">M-PFT: Angular Margin for Calibrated Prompt-Tuning of Fine-Tuned Vision-Language Models</text>
+<text x="28" y="126" fill="#3d3d3a" font-size="16">Prompt-tuned VLMs tend to be underconfident on base classes and overconfident on novel ones.</text>
+<text x="28" y="150" fill="#3d3d3a" font-size="16">M-PFT enlarges the angular margin by separating class embeddings and anchoring them to zero-shot ones —</text>
+<text x="28" y="174" fill="#1f2328" font-size="16" font-weight="600">lower novel-class calibration error across 9 methods and 15 datasets, with comparable accuracy.</text>
+<rect x="28" y="196" width="118" height="24" rx="5" fill="#E6F1FB"/><text x="87" y="212" text-anchor="middle" fill="#0C447C" font-size="12">Prompt tuning</text>
+<rect x="154" y="196" width="100" height="24" rx="5" fill="#E6F1FB"/><text x="204" y="212" text-anchor="middle" fill="#0C447C" font-size="12">Calibration</text>
+<rect x="262" y="196" width="166" height="24" rx="5" fill="#E6F1FB"/><text x="345" y="212" text-anchor="middle" fill="#0C447C" font-size="12">Vision-language models</text>
+</svg>

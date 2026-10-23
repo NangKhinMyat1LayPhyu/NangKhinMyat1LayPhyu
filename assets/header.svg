@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+.m{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace}
+.v{fill:#185FA5;animation:p 2.4s ease-in-out infinite}
+.v2{animation-delay:.3s}.v3{animation-delay:.6s}.v4{animation-delay:.9s}
+@keyframes p{0%,100%{opacity:1}50%{opacity:.5}}
+.in{animation:fi 1s ease-out both}@keyframes fi{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+</style>
+<rect width="900" height="200" rx="12" fill="#F7F9FC"/>
+<g class="m" font-size="20">
+<rect class="v" x="56" y="50" width="70" height="46" rx="8"/><text x="91" y="80" text-anchor="middle" fill="#fff">V₁</text>
+<rect class="v v2" x="134" y="50" width="70" height="46" rx="8"/><text x="169" y="80" text-anchor="middle" fill="#fff">V₂</text>
+<rect class="v v3" x="212" y="50" width="70" height="46" rx="8"/><text x="247" y="80" text-anchor="middle" fill="#fff">V₃</text>
+<rect class="v v4" x="290" y="50" width="70" height="46" rx="8"/><text x="325" y="80" text-anchor="middle" fill="#fff">V₄</text>
+</g>
+<g class="in">
+<rect x="370" y="50" width="474" height="46" rx="8" fill="#E6F1FB" stroke="#B5D4F4"/>
+<text x="607" y="81" text-anchor="middle" fill="#0C447C" font-size="24" font-weight="600">Nang Khin Myat Lay Phyu</text>
+</g>
+<text class="m" x="208" y="120" text-anchor="middle" fill="#185FA5" font-size="13">learnable context</text>
+<text class="m" x="607" y="120" text-anchor="middle" fill="#5F5E5A" font-size="13">class token</text>
+<text class="m" x="450" y="166" text-anchor="middle" fill="#5F5E5A" font-size="16">Computer Vision · ML Engineering · WACV 2027</text>
+</svg>
